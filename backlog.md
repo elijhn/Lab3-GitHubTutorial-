@@ -11,3 +11,4 @@
 
 **Screenshot of Group_6_Product_Backlog.md:**
 ![Project product backlog](backlog.png)
+![Project product backlog](product-backlog1.png)
